@@ -36,10 +36,11 @@ A feature-packed Python package and vector storage file format for utilizing vec
 - [LICENSE and Attribution](#license-and-attribution)
 
 ## Installation
-You can install this package with `pip`:
-```python
-pip install pymagnitude # Python 2.7
-pip3 install pymagnitude # Python 3
+
+```shell
+$ git clone git@github.com:cl-tohoku/magnitude.git
+$ cd magnitude
+$ python setup.py install
 ```
 
 ## Motivation
